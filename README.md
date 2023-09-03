@@ -24,6 +24,6 @@ def rfid_read():
 		results = "gagal"
 		return results;
 		 
-##Hasil Dashboard
+## Hasil Dashboard
 
 ![WhatsApp Image 2023-09-03 at 11 33 49 AM](https://github.com/AghniaLintang/technical-assignment-week-10-AghniaLintangKinanti/assets/143922162/99e221c0-3bfc-467b-9d5b-cc4ef26bc373)
